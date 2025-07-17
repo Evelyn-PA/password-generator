@@ -1,0 +1,133 @@
+/* Add first background */
+body {
+    width: 90%;
+    max-width: 600px;
+    background-color: #1E1E1E;
+    display: flex;
+    align-items: center;
+    margin: auto;
+    flex-direction: column;
+    height: 75vh;
+    font-family: "Josefin Sans", sans-serif;
+}
+
+/* Add second background */
+.container {
+    width: auto;
+    max-width: 900px;
+    background-color: #2B2D31;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 20px auto;
+}
+
+/* adjust text color for the header */
+.head {
+    font-size: 20px;
+    text-align: center;
+    color: #F8F8F8;
+    font-weight: bolder;
+}
+
+#text-snd {
+    color: #25AE8D;
+}
+
+#sub-text {
+    font-size: 18px;
+    margin-top: -15px;
+}
+
+/* Adjust the password input field & button */
+.body {
+    color: #F8F8F8;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+/* Edit the ps box */
+.ps {
+    font-size: 20px;
+    margin-top: 35px;
+}
+
+#password-length {
+    text-align: center;
+    font-size: 16px;
+    height: 30px;
+    width: 50px;
+    margin-top: auto;
+    border-radius: 5px;
+    border: none;
+}
+
+#text-2 {
+    font-size: 20px;
+    margin-top: 25px;
+}
+
+/* Edit the button */
+.radio-container {
+    display: inline-flex;
+    font-size: 16px;
+    margin: 0 15px;
+    margin-bottom: 10px;
+}
+
+/* Edit the submit button */
+#generate-password {
+    background-color: #168188;
+    border: none;
+    border-radius: 10px;
+    color: #FFFFFF;
+    font-size: 21px;
+    font-weight: 550;
+    padding: 10px 20px;
+    margin-top: 10px;
+    width: auto;
+    height: auto;
+}
+
+/* Adjust the password display */
+.display {
+    width: 90%;
+    min-width: fit-content;
+    height: 50px;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 20px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    border: none;
+    border-width: 2px;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}
+
+/*Add hover for the submit button*/
+#generate-password:hover {
+    background-color: #25AE8D;
+    cursor: pointer;
+}
+
+#copy {
+    border: none;
+    outline: none;
+    font-size: 18px;
+    width: auto;
+    padding: 8px 12px;
+    margin-top: 10px;
+    border-radius: 10px;
+    background-color: #1E1E1E;
+    color: #ffffff;
+    display: flex;
+    justify-content: center;
+    cursor: pointer;
+}
+
+#copy:hover {
+    background-color: #2B2D31
+}
