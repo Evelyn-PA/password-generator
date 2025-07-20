@@ -9,7 +9,6 @@ It allows you to instantly generate secure random passwords with customizable op
 
 ## 📸 Screenshot
 
-*(Replace this line with an actual screenshot of your project)*
 ![Password Generator Screenshot](/image.gif)
 
 ---
