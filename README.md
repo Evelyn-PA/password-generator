@@ -7,6 +7,13 @@ It allows you to instantly generate secure random passwords with customizable op
 
 ---
 
+## 📸 Screenshot
+
+*(Replace this line with an actual screenshot of your project)*
+![Password Generator Screenshot](/image.gif)
+
+---
+
 ## ✨ Overview
 
 This project was created as part of my self‑study and exploration in front‑end development.
@@ -30,13 +37,6 @@ I’m currently seeking **front‑end/web development internship opportunities**
 
 - ⚡ **JavaScript (ES6)** – Core logic for password generation
 - 🎨 **HTML5 & CSS3** – Clean, responsive layout and design
-
----
-
-## 📸 Screenshot
-
-*(Replace this line with an actual screenshot of your project)*
-![Password Generator Screenshot](https://via.placeholder.com/600x400.png?text=Your+Project+Screenshot)
 
 ---
 
